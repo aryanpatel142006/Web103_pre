@@ -1,10 +1,10 @@
-# Web Development Project 2 - *FlashCards*
+# Web Development Final Project  - *HobbyHub*
 
 Submitted by: **Aryan Patel**
 
-This web app: **Simple and useful FlashCards App**
+This web app: **Simple and useful hobby hub blog posts**
 
-Time spent: **4** hours spent in total
+Time spent: **25** hours spent in total
 
 ## Required Features
 
@@ -70,7 +70,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/Final-2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/1QPeBksn8C6pM7aOPW5_G2sorx53uceJA/preview
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
