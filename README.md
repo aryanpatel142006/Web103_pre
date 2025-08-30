@@ -1,66 +1,31 @@
-# Web Development Final Project  - *HobbyHub*
+# WEB103 Prework - *👉🏿 Creatorverse*
 
-Submitted by: **Aryan Patel**
+Submitted by: **👉🏿 Aryan Patel**
 
-This web app: **Simple and useful hobby hub blog posts**
+About this web app: **👉🏿 simple app for my top creators**
 
-Time spent: **25** hours spent in total
+Time spent: **👉🏿 10-20** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-
-- [ X ] **Web app includes a create form that allows the user to create posts**
-  - Form requires users to add a post title
-  - Forms should have the *option* for users to add: 
-    - additional textual content
-    - an image added as an external image URL
-- [ X ] **Web app includes a home feed displaying previously created posts**
-  - Web app must include home feed displaying previously created posts
-  - By default, each post on the posts feed should show only the post's:
-    - creation time
-    - title 
-    - upvotes count
-  - Clicking on a post should direct the user to a new page for the selected post
-- [ X ] **Users can view posts in different ways**
-  - Users can sort posts by either:
-    -  creation time
-    -  upvotes count
-  - Users can search for posts by title
-- [  X ] **Users can interact with each post in different ways**
-  - The app includes a separate post page for each created post when clicked, where any additional information is shown, including:
-    - content
-    - image
-    - comments
-  - Users can leave comments underneath a post on the post page
-  - Each post includes an upvote button on the post page. 
-    - Each click increases the post's upvotes count by one
-    - Users can upvote any post any number of times
-
-- [ X ] **A post that a user previously created can be edited or deleted from its post pages**
-  - After a user creates a new post, they can go back and edit the post
-  - A previously created post can be deleted from its post page
+<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
+- [ X ] **A logical component structure in React is used to create the frontend of the app**
+- [ X ] **At least five content creators are displayed on the homepage of the app**
+- [ X ] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
+- [ X ] **API calls use the async/await design pattern via Axios or fetch()**
+- [ X ] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
+- [ X ] **Each content creator has their own unique URL**
+- [ X ] **The user can edit a content creator to change their name, url, or description**
+- [ X ] **The user can delete a content creator**
+- [ X ] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
 
 The following **optional** features are implemented:
 
-
-- [ ] Web app implements pseudo-authentication
-  - Users can only edit and delete posts or delete comments by entering the secret key, which is set by the user during post creation
-  - **or** upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them
-  - For both options, only the original user author of a post can update or delete it
-- [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post
-  - Users can repost a previous post by referencing its post ID
-  - On the post page of the new post, the referenced post is displayed and linked, creating a thread
-- [ ] Users can customize the interface
-  - e.g., selecting the color scheme or showing the content and image of each post on the home feed
-- [  ] Users can add more characterics to their posts
-  - Users can share and view web videos
-  - Users can set flags such as "Question" or "Opinion" while creating a post
-  - Users can filter posts by flags on the home feed
-  - Users can upload images directly from their local machine as an image file
-- [ X ] Web app displays a loading animation whenever data is being fetched
-
+- [ ] Picocss is used to style HTML elements
+- [ ] The content creator items are displayed in a creative format, like cards instead of a list
+- [ X ] An image of each content creator is shown on their content creator card
 
 The following **additional** features are implemented:
 
@@ -70,13 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://drive.google.com/file/d/1QPeBksn8C6pM7aOPW5_G2sorx53uceJA/preview
-
-
-
+👉🏿<img src=' https://i.imgur.com/bYGwgbg.gif ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  👉🏿 GIF tool here
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -84,20 +46,14 @@ GIF created with ...
 
 ## Notes
 
-It was a good experience learnt a lot of stuff!!!!
+Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+> http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
